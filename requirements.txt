@@ -1,0 +1,6 @@
+pip==6.1.1
+setuptools==15.0
+numpy
+pandas
+matplotlib
+ggplot
